@@ -1,0 +1,23 @@
+body {
+  margin: 0 auto;
+}
+
+nav {
+  background-color: red;
+}
+
+nav ul li {
+  display: inline-block;
+  padding: 0 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: white;
+  font-size: 25px;
+}
+
+nav ul li a:hover {
+  background-color: white;
+  color: red;
+}
